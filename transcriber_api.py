@@ -120,8 +120,3 @@ api.add_resource(Transcribe, "/<string:url>")
 
 if __name__ == "__main__":
     app.run(debug = True)
-
-    
-    
-
-# https://www.youtube.com/watch?v=mybSav4MK90
